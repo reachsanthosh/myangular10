@@ -1,0 +1,1 @@
+This a sample project with Core , EF and Angular 10
